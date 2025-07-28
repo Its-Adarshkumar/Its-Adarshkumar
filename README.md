@@ -8,7 +8,7 @@ Hi! I'm Adarsh Kumar , a passionate B.Tech CSE student, eager to learn and devel
 
 📂 Projects
 
-In this repository, you will find a collection of my projects, ranging from web development to machine learning. Each project includes a detailed README file with instructions on how to set up and run the code, as well as any necessary dependencies.
+In this repository, you will find a collection of my projects, ranging from web development to machine learning, DSA Projects. Each project includes a detailed README file with instructions on how to set up and run the code, as well as any necessary dependencies.
 
 📬 Contact
 
